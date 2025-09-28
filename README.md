@@ -1,4 +1,7 @@
 # Simon-Says-Game
+
+https://simon-says-game-six-rho.vercel.app/
+
 🎉 Simon Says Game 🎉
 
 🟢🔵🟡🔴
